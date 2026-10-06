@@ -10,8 +10,8 @@
    "categoria": "dispositivos",
    "subtitulo": "Dispositivo 7 en 1 con electroporación, microcorrientes y EMS, con modo mascarilla",
    "affiliate_url": "https://link.amazon/B0denuQVx",
-   "valoracion_media": 4.3,
-   "resenas_cantidad": 702,
+   "valoracion_media": null,
+   "resenas_cantidad": null,
    "tipo_piel": [
     "Normal",
     "Mixta",
@@ -111,14 +111,12 @@
     "Cuatro tecnologías y modo dual en un solo aparato",
     "6 niveles de intensidad para ir subiendo poco a poco",
     "Modo mascarilla para sacar más partido a las mascarillas de tela",
-    "Batería de larga duración y carga por USB",
-    "Número 1 en su categoría en Amazon.es"
+    "Batería de larga duración y carga por USB"
    ],
    "contras": [
     "Inversión elevada frente a la cosmética tradicional",
-    "Nota de 4,3 sobre 5, la más baja de nuestro catálogo",
-    "Algunas reseñas mencionan el botón de modo fácil de pulsar sin querer",
-    "Hay una reseña aislada sobre la app y el modo IA (no confirmada)"
+    "Requiere constancia y seguir el manual del fabricante",
+    "No apto en las situaciones indicadas en las precauciones"
    ],
    "muestra": false,
    "precio": {
@@ -135,8 +133,8 @@
    "categoria": "cremas",
    "subtitulo": "Crema facial con colágeno hidrolizado, textura jelly y glow",
    "affiliate_url": "https://link.amazon/B0ecSlUq1",
-   "valoracion_media": 4.4,
-   "resenas_cantidad": 38827,
+   "valoracion_media": null,
+   "resenas_cantidad": null,
    "tipo_piel": [
     "Normal",
     "Mixta",
@@ -149,7 +147,7 @@
      "items": [
       [
        "Tipo de piel",
-       "Normal, mixta, seca o deshidratada (según reseñas)"
+       "Normal, mixta, seca o deshidratada"
       ],
       [
        "Beneficios clave",
@@ -205,15 +203,14 @@
     "luminosidad": 6
    },
    "pros": [
-    "Número 1 en cremas diurnas faciales en Amazon.es",
     "Textura jelly ligera y fresca",
-    "Fórmula muy popular entre los compradores",
-    "Cunde: se necesita poca cantidad"
+    "Se aplica en poca cantidad",
+    "Acabado jugoso y luminoso",
+    "Formato de 50 ml (también existe de 110 ml)"
    ],
    "contras": [
-    "Contiene perfume",
-    "Alguna reseña la nota algo aceitosa en verano",
-    "Alguna reseña la nota algo untuosa"
+    "Contiene perfume: no ideal en pieles muy reactivas",
+    "Las pieles muy secas pueden necesitar una capa extra en invierno"
    ],
    "muestra": false,
    "precio": {
@@ -230,8 +227,8 @@
    "categoria": "mascarillas",
    "subtitulo": "Mascarilla de hidrogel nocturna con colágeno · 4 unidades de 34 g",
    "affiliate_url": "https://link.amazon/B0b29cF2n",
-   "valoracion_media": 4.6,
-   "resenas_cantidad": 46338,
+   "valoracion_media": null,
+   "resenas_cantidad": null,
    "tipo_piel": [
     "Seca",
     "Normal",
@@ -300,13 +297,12 @@
     "luminosidad": 7
    },
    "pros": [
-    "Número 1 en mascarillas faciales en Amazon.es",
-    "Hidratación y glow visibles desde el primer uso",
+    "Pensada para dejar la piel jugosa y luminosa",
     "Se aplica en dos piezas para ajustarla al rostro",
-    "Cada mascarilla se ajusta en dos partes al rostro"
+    "Formato práctico: 4 mascarillas de 34 g"
    ],
    "contras": [
-    "Algunas usuarias la encuentran incómoda para dormir",
+    "Puede resultar incómoda para dormir toda la noche",
     "Contiene perfume",
     "Es de un solo uso por pieza"
    ],
@@ -325,8 +321,8 @@
    "categoria": "serums-tonicos",
    "subtitulo": "Tónico calmante con 77 % de Heartleaf y ácido hialurónico · 250 ml",
    "affiliate_url": "https://link.amazon/B0j0T9at6",
-   "valoracion_media": 4.6,
-   "resenas_cantidad": 824,
+   "valoracion_media": null,
+   "resenas_cantidad": null,
    "tipo_piel": [
     "Sensible",
     "Reactiva",
@@ -391,9 +387,9 @@
     "luminosidad": 3
    },
    "pros": [
-    "Calma rojeces y piel reactiva",
-    "Textura acuosa no pegajosa y no comedogénica",
-    "Formato grande de 250 ml, dura bastante",
+    "Pensado para calmar piel sensible o con rojeces",
+    "Textura acuosa no pegajosa y no comedogénica (según el fabricante)",
+    "Formato grande de 250 ml",
     "Fórmula sencilla y fácil de combinar"
    ],
    "contras": [
@@ -415,8 +411,8 @@
    "categoria": "serums-tonicos",
    "subtitulo": "Sérum uniformizador con niacinamida, ácido tranexámico y arbutina · 30 ml",
    "affiliate_url": "https://link.amazon/B0a1g2v6o",
-   "valoracion_media": 4.6,
-   "resenas_cantidad": 3936,
+   "valoracion_media": null,
+   "resenas_cantidad": null,
    "tipo_piel": [
     "Todo tipo de piel",
     "Con manchas",
@@ -487,8 +483,7 @@
    "pros": [
     "Triple activo para manchas, tono y poros",
     "Con ceramidas y ácido hialurónico para la barrera",
-    "Sin fragancia y textura ligera",
-    "Fórmula con activos bien explicados"
+    "Sin fragancia y de textura ligera"
    ],
    "contras": [
     "Resultados progresivos, no inmediatos",
@@ -509,8 +504,8 @@
    "categoria": "serums-tonicos",
    "subtitulo": "Sérum con PDRN de ADN de salmón, péptidos y niacinamida · 30 ml",
    "affiliate_url": "https://link.amazon/B0417cQbY",
-   "valoracion_media": 4.6,
-   "resenas_cantidad": 24897,
+   "valoracion_media": null,
+   "resenas_cantidad": null,
    "tipo_piel": [
     "Todo tipo de piel",
     "Apagada",
@@ -583,14 +578,14 @@
     "luminosidad": 8
    },
    "pros": [
-    "Hidratación y glow desde las primeras aplicaciones",
+    "Pensado para hidratar y dar luminosidad",
     "Textura ligera que no deja la piel pegajosa",
-    "Funciona bien como prebase de maquillaje (según reseñas)",
-    "Muy popular y con miles de valoraciones"
+    "Se integra fácilmente antes de la crema"
    ],
    "contras": [
     "Contiene perfume",
-    "Efecto sobre los poros variable según las reseñas"
+    "Contiene PDRN de origen marino (salmón)",
+    "Los resultados varían de una persona a otra"
    ],
    "muestra": false,
    "precio": {
@@ -607,8 +602,8 @@
    "categoria": "cremas",
    "subtitulo": "CC cream con centella asiática y SPF 30 para un acabado natural y luminoso",
    "affiliate_url": "https://link.amazon/B0hcbx0g1",
-   "valoracion_media": 4.5,
-   "resenas_cantidad": 9149,
+   "valoracion_media": null,
+   "resenas_cantidad": null,
    "tipo_piel": [
     "Todo tipo de piel",
     "Normal",
@@ -638,7 +633,7 @@
       ],
       [
        "Textura",
-       "Crema fina que se funde con la piel; se aplica blanca y el color aparece al extenderla (según reseñas)"
+       "Crema fina que se funde con la piel; se aplica blanca y el color aparece al extenderla"
       ],
       [
        "Cobertura y acabado",
@@ -685,16 +680,15 @@
     "luminosidad": 8
    },
    "pros": [
-    "Número 1 en CC creams en Amazon.es",
     "Acabado natural y luminoso con cobertura ligera",
     "Se aplica en un minuto con los dedos",
-    "Incluye SPF 30 y centella asiática"
+    "Incluye SPF 30 y centella asiática",
+    "Varios tonos disponibles"
    ],
    "contras": [
     "Cobertura ligera: no tapa imperfecciones marcadas",
     "Formato pequeño (15 ml) en este enlace",
-    "Hay que acertar con el tono",
-    "Durabilidad moderada según alguna reseña"
+    "Hay que acertar con el tono"
    ],
    "muestra": false,
    "precio": {
@@ -702,6 +696,208 @@
    },
    "cat": "Cremas",
    "img": "img-erborian-cc-creme-centella-1.jpg"
+  },
+  {
+   "id": "anua-heartleaf-pore-control-cleansing-oil",
+   "slug": "p-anua-heartleaf-pore-control-cleansing-oil.html",
+   "name": "Anua Heartleaf Pore Control Cleansing Oil",
+   "marca": "Anua",
+   "categoria": "limpiadores-solar",
+   "subtitulo": "Aceite limpiador para doble limpieza con extracto de Heartleaf · 200 ml",
+   "affiliate_url": "https://link.amazon/B09I9LhDr",
+   "valoracion_media": null,
+   "resenas_cantidad": null,
+   "tipo_piel": [
+    "Todo tipo de piel",
+    "Mixta",
+    "Grasa",
+    "Con poros dilatados"
+   ],
+   "specs": [
+    {
+     "g": "Para quién",
+     "items": [
+      [
+       "Tipo de piel",
+       "Todo tipo de piel, incluida la sensible o con tendencia acneica (según el fabricante)"
+      ],
+      [
+       "Beneficios clave",
+       "Disuelve maquillaje, protector solar, sebo e impurezas; cuida el aspecto de los poros"
+      ]
+     ]
+    },
+    {
+     "g": "Fórmula",
+     "items": [
+      [
+       "Ingredientes principales",
+       "Extracto de Houttuynia cordata (Heartleaf)"
+      ],
+      [
+       "Textura",
+       "Aceite ligero que se emulsiona con agua y no deja residuo graso"
+      ],
+      [
+       "Pruebas del fabricante",
+       "Testado dermatológicamente como hipoalergénico y no comedogénico; −22,8 % de sebo en un test clínico del propio fabricante"
+      ]
+     ]
+    },
+    {
+     "g": "Formato y uso",
+     "items": [
+      [
+       "Formato",
+       "200 ml"
+      ],
+      [
+       "Cuándo usarlo",
+       "Primer paso de la doble limpieza, mañana y/o noche"
+      ],
+      [
+       "Cómo usarlo",
+       "Sobre piel seca, masajear 1–2 min; añadir un poco de agua para emulsionar; aclarar y seguir con un limpiador al agua"
+      ]
+     ]
+    }
+   ],
+   "scores": {
+    "eficacia": 7,
+    "hidratacion": 4,
+    "suavidad": 8,
+    "calidad_precio": 7,
+    "facilidad_uso": 9,
+    "rapidez": 6
+   },
+   "necesidades": {
+    "hidratacion": 3,
+    "calmar": 6,
+    "manchas": 2,
+    "firmeza": 1,
+    "poros": 8,
+    "luminosidad": 5
+   },
+   "pros": [
+    "Pensado para retirar maquillaje y protector solar en un paso",
+    "Textura ligera que se emulsiona con agua",
+    "Con extracto de Heartleaf, el mismo ingrediente de su tónico",
+    "Formato de 200 ml"
+   ],
+   "contras": [
+    "Es solo el primer paso: hay que completar con un limpiador al agua",
+    "No hace espuma, algo que a algunas personas les resulta raro",
+    "Haz una prueba previa si tu piel es muy reactiva"
+   ],
+   "muestra": false,
+   "precio": {
+    "actual": null
+   },
+   "cat": "Limpieza y SPF",
+   "img": "img-anua-heartleaf-pore-control-cleansing-oil-1.jpg"
+  },
+  {
+   "id": "beauty-of-joseon-relief-sun-spf50",
+   "slug": "p-beauty-of-joseon-relief-sun-spf50.html",
+   "name": "Beauty of Joseon Relief Sun Rice + Probiotics SPF50+",
+   "marca": "Beauty of Joseon",
+   "categoria": "limpiadores-solar",
+   "subtitulo": "Protector solar facial con arroz y probióticos, SPF50+ PA++++ · 50 ml",
+   "affiliate_url": "https://link.amazon/B06z2nxDK",
+   "valoracion_media": null,
+   "resenas_cantidad": null,
+   "tipo_piel": [
+    "Todo tipo de piel",
+    "Sensible",
+    "Mixta",
+    "Normal"
+   ],
+   "specs": [
+    {
+     "g": "Para quién",
+     "items": [
+      [
+       "Tipo de piel",
+       "Todo tipo de piel; el anuncio indica que puede usarse también en piel sensible"
+      ],
+      [
+       "Beneficios clave",
+       "Protección alta frente a UVA y UVB con hidratación ligera"
+      ]
+     ]
+    },
+    {
+     "g": "Fórmula",
+     "items": [
+      [
+       "Ingredientes principales",
+       "Extracto de arroz (30 %) y biofermento de ácido láctico (probióticos)"
+      ],
+      [
+       "Tipo de filtros",
+       "Filtros químicos"
+      ],
+      [
+       "Textura",
+       "Ligera y sin efecto blanquecino (según el anuncio)"
+      ],
+      [
+       "Vegana",
+       "Sí (según la descripción del anuncio)"
+      ]
+     ]
+    },
+    {
+     "g": "Formato y uso",
+     "items": [
+      [
+       "Protección",
+       "SPF50+ PA++++"
+      ],
+      [
+       "Formato",
+       "50 ml"
+      ],
+      [
+       "Cuándo usarlo",
+       "Último paso de la rutina de mañana; reaplicar si hay exposición solar"
+      ]
+     ]
+    }
+   ],
+   "scores": {
+    "eficacia": 8,
+    "hidratacion": 6,
+    "suavidad": 8,
+    "calidad_precio": 7,
+    "facilidad_uso": 9,
+    "rapidez": 8
+   },
+   "necesidades": {
+    "hidratacion": 5,
+    "calmar": 5,
+    "manchas": 6,
+    "firmeza": 3,
+    "poros": 2,
+    "luminosidad": 5
+   },
+   "pros": [
+    "Protección alta SPF50+ PA++++",
+    "Textura ligera y sin marca blanca (según el anuncio)",
+    "Con extracto de arroz y probióticos",
+    "Cierra cualquier rutina de mañana"
+   ],
+   "contras": [
+    "Lleva filtros químicos, que no gustan a todo el mundo",
+    "Formato de 50 ml: se gasta rápido si se aplica la cantidad recomendada",
+    "Hay que reaplicarlo si te expones al sol"
+   ],
+   "muestra": false,
+   "precio": {
+    "actual": null
+   },
+   "cat": "Limpieza y SPF",
+   "img": "img-beauty-of-joseon-relief-sun-spf50-1.jpg"
   }
  ],
  "axes": [
@@ -757,6 +953,6 @@
   }
  ],
  "updated": "2026-10-06",
- "v": "202610061953"
+ "v": "202610062038"
 };
 })();
