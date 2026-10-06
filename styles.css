@@ -120,7 +120,8 @@ ul { padding-left: 1.2em; margin: 0 0 1em; }
 .banner--star p { color: #e4d6cd; }
 .banner--soft { background: linear-gradient(120deg, var(--sage), var(--blush)); }
 .banner-art { aspect-ratio: 4/3; border-radius: var(--radius); background: radial-gradient(circle at 70% 30%, rgba(255, 255, 255, .25), transparent 55%), linear-gradient(160deg, rgba(255, 255, 255, .12), rgba(255, 255, 255, 0)); border: 1px solid rgba(255, 255, 255, .2); display: grid; place-items: center; }
-.banner-art .art { width: 46%; }
+.banner-art { overflow: hidden; }
+.banner-art img, .banner-art .art { width: 100%; height: 100%; object-fit: cover; }
 .page-hero { background: linear-gradient(135deg, var(--blush-2), var(--cream)); padding-block: clamp(40px, 7vw, 80px); }
 .page-hero h1 { font-size: clamp(2.2rem, 5vw, 3.6rem); max-width: 860px; }
 .page-hero .lead { max-width: 680px; margin-bottom: 0; }

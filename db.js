@@ -3,24 +3,25 @@
   window.__DB__ = {
  "productos": [
   {
-   "id": "medicube-age-r-booster-pro",
-   "slug": "p-medicube-age-r-booster-pro.html",
-   "name": "Medicube Age-R Booster Pro",
+   "id": "medicube-booster-pro-x2",
+   "slug": "p-medicube-booster-pro-x2.html",
+   "name": "Medicube Booster Pro X2",
    "marca": "Medicube",
    "categoria": "dispositivos",
-   "subtitulo": "Dispositivo facial 4 en 1 con EMS, electroporación y microcorrientes",
-   "affiliate_url": "https://www.amazon.es/s?k=medicube+age-r+booster+pro",
+   "subtitulo": "Dispositivo 7 en 1 con electroporación, microcorrientes y EMS, con modo mascarilla",
+   "affiliate_url": "https://link.amazon/B0denuQVx",
    "precio": {
-    "retail": null,
-    "actual": null,
-    "fecha": null
+    "retail": 251.88,
+    "actual": 155.0,
+    "sin_prime": 215.0,
+    "fecha": "2026-10-06"
    },
-   "valoracion_media": null,
-   "resenas_cantidad": null,
+   "valoracion_media": 4.3,
+   "resenas_cantidad": 702,
    "tipo_piel": [
     "Normal",
     "Mixta",
-    "Seca",
+    "Con poros dilatados",
     "Con signos de edad"
    ],
    "specs": [
@@ -28,37 +29,45 @@
      "g": "Tecnologías",
      "items": [
       [
-       "EMS (estimulación muscular)",
-       "Sí"
-      ],
-      [
        "Electroporación",
-       "Sí"
+       "Sí · Modo Booster (luminosidad)"
       ],
       [
        "Microcorrientes",
-       "Sí"
+       "Sí · Modo MC (radiancia)"
       ],
       [
-       "Otras tecnologías",
-       null
+       "EMS (estimulación muscular)",
+       "Sí · Modo Derma Shot (firmeza)"
+      ],
+      [
+       "Micro-agujas eléctricas (sin agujas)",
+       "Sí · Modo Air Shot (poros y textura)"
+      ],
+      [
+       "Otras",
+       "Doble cabezal, LED y sonido ajustables desde la app"
       ]
      ]
     },
     {
-     "g": "Uso",
+     "g": "Intensidad y modos",
      "items": [
       [
        "Niveles de intensidad",
-       null
+       "6 niveles"
       ],
       [
        "Modos de uso",
-       null
+       "7 modos: Booster, MC, Derma Shot, Air Shot, Dual, Mascarilla e IA"
       ],
       [
-       "Zonas de aplicación",
-       "Rostro y cuello"
+       "Duración de sesión",
+       "5–10 min por modo (según medios especializados)"
+      ],
+      [
+       "Control",
+       "App medicube (Bluetooth)"
       ]
      ]
     },
@@ -66,16 +75,24 @@
      "g": "Batería y carga",
      "items": [
       [
-       "Autonomía",
-       null
+       "Batería",
+       "Litio-ion, incluida"
       ],
       [
        "Tipo de carga",
-       null
+       "Cable USB (incluido)"
+      ],
+      [
+       "Autonomía",
+       "Más de una semana de uso (según medios especializados)"
       ],
       [
        "Tiempo de carga",
        null
+      ],
+      [
+       "Medidas y peso",
+       "23,5 × 9 × 7 cm · 540 g"
       ]
      ]
     }
@@ -89,26 +106,127 @@
     "rapidez": 8
    },
    "necesidades": {
-    "hidratacion": 7,
-    "calmar": 3,
-    "manchas": 6,
+    "hidratacion": 6,
+    "calmar": 2,
+    "manchas": 5,
     "firmeza": 9,
-    "poros": 6,
+    "poros": 8,
     "luminosidad": 8
    },
    "pros": [
-    "Reúne tres tecnologías en un solo dispositivo",
-    "Se integra fácilmente en la rutina nocturna",
-    "Marca muy reconocida dentro de la K-Beauty"
+    "Cuatro tecnologías y modo dual en un solo aparato",
+    "6 niveles de intensidad para ir subiendo poco a poco",
+    "Modo mascarilla para sacar más partido a las mascarillas de tela",
+    "Batería de larga duración y carga por USB",
+    "Número 1 en su categoría en Amazon.es"
    ],
    "contras": [
-    "Inversión superior a la de la cosmética tradicional",
-    "Requiere constancia para notar resultados",
-    "No apto para todas las situaciones (ver precauciones)"
+    "Precio elevado y con descuento solo para clientes Prime",
+    "Nota de 4,3 sobre 5, la más baja de nuestro catálogo",
+    "Algunas reseñas mencionan el botón de modo fácil de pulsar sin querer",
+    "Una reseña en España indica que el modo IA por app no sincronizaba"
    ],
-   "muestra": true,
+   "muestra": false,
    "cat": "Dispositivos",
-   "img": null
+   "img": "img-medicube-booster-pro-x2-1.jpg"
+  },
+  {
+   "id": "medicube-collagen-jelly-cream",
+   "slug": "p-medicube-collagen-jelly-cream.html",
+   "name": "Medicube Collagen Jelly Cream",
+   "marca": "Medicube",
+   "categoria": "cremas",
+   "subtitulo": "Crema facial con colágeno hidrolizado, textura jelly y glow",
+   "affiliate_url": "https://link.amazon/B0ecSlUq1",
+   "precio": {
+    "retail": 16.74,
+    "actual": 8.06,
+    "sin_prime": 13.95,
+    "fecha": "2026-10-06"
+   },
+   "valoracion_media": 4.4,
+   "resenas_cantidad": 38827,
+   "tipo_piel": [
+    "Normal",
+    "Mixta",
+    "Seca",
+    "Deshidratada"
+   ],
+   "specs": [
+    {
+     "g": "Para quién",
+     "items": [
+      [
+       "Tipo de piel",
+       "Normal, mixta, seca o deshidratada (según reseñas)"
+      ],
+      [
+       "Beneficios clave",
+       "Hidratación, luminosidad, piel suave y rellena"
+      ]
+     ]
+    },
+    {
+     "g": "Fórmula",
+     "items": [
+      [
+       "Ingredientes principales",
+       "Colágeno hidrolizado y soluble, niacinamida, trehalosa, adenosina, ácido hialurónico, escualano"
+      ],
+      [
+       "Textura",
+       "Gel-crema tipo gelatina, ligera y de rápida absorción"
+      ],
+      [
+       "Fragancia",
+       "Contiene perfume"
+      ]
+     ]
+    },
+    {
+     "g": "Formato y uso",
+     "items": [
+      [
+       "Formato",
+       "50 ml (también disponible en 110 ml)"
+      ],
+      [
+       "Cuándo usarla",
+       "Mañana y noche, como último paso de la rutina"
+      ]
+     ]
+    }
+   ],
+   "scores": {
+    "eficacia": 7,
+    "hidratacion": 9,
+    "suavidad": 8,
+    "calidad_precio": 9,
+    "facilidad_uso": 10,
+    "rapidez": 6
+   },
+   "necesidades": {
+    "hidratacion": 9,
+    "calmar": 5,
+    "manchas": 3,
+    "firmeza": 6,
+    "poros": 2,
+    "luminosidad": 6
+   },
+   "pros": [
+    "Número 1 en cremas diurnas faciales en Amazon.es",
+    "Textura jelly ligera y fresca",
+    "Precio muy bajo para el volumen de reseñas",
+    "Cunde: se necesita poca cantidad"
+   ],
+   "contras": [
+    "Contiene perfume",
+    "Alguna reseña la nota algo aceitosa en verano",
+    "Con Prime baja a la mitad, sin Prime el precio sube"
+   ],
+   "muestra": false,
+   "cat": "Cremas",
+   "img": "img-medicube-collagen-jelly-cream-1.jpg"
   },
   {
    "id": "biodance-bio-collagen-real-deep-mask",
@@ -116,15 +234,16 @@
    "name": "Biodance Bio-Collagen Real Deep Mask",
    "marca": "Biodance",
    "categoria": "mascarillas",
-   "subtitulo": "Mascarilla hidrogel de colágeno para usar toda la noche",
-   "affiliate_url": "https://www.amazon.es/s?k=biodance+bio-collagen+real+deep+mask",
+   "subtitulo": "Mascarilla de hidrogel nocturna con colágeno · 4 unidades de 34 g",
+   "affiliate_url": "https://link.amazon/B0b29cF2n",
    "precio": {
-    "retail": null,
-    "actual": null,
-    "fecha": null
+    "retail": 14.09,
+    "actual": 10.45,
+    "sin_prime": 15.7,
+    "fecha": "2026-10-06"
    },
-   "valoracion_media": null,
-   "resenas_cantidad": null,
+   "valoracion_media": 4.6,
+   "resenas_cantidad": 46338,
    "tipo_piel": [
     "Seca",
     "Normal",
@@ -137,11 +256,11 @@
      "items": [
       [
        "Tipo de piel",
-       "Seca, normal, mixta y deshidratada"
+       "Normal, seca, mixta o deshidratada"
       ],
       [
        "Beneficios clave",
-       "Hidratación intensa, efecto rellenador y piel más luminosa"
+       "Hidratación profunda, mejor aspecto de poros, elasticidad, tono y luminosidad"
       ]
      ]
     },
@@ -150,11 +269,15 @@
      "items": [
       [
        "Ingredientes principales",
-       "Colágeno hidrolizado"
+       "Ácido oligo-hialurónico, colágeno de ultra bajo peso molecular, filtrado de fermento de Galactomyces, niacinamida"
       ],
       [
        "Textura",
-       "Hidrogel que se seca sobre la piel"
+       "Hidrogel que se vuelve transparente al absorberse"
+      ],
+      [
+       "Fragancia",
+       "Contiene perfume"
       ]
      ]
     },
@@ -163,11 +286,11 @@
      "items": [
       [
        "Formato",
-       "Mascarilla de tela de hidrogel (unidades según pack)"
+       "4 mascarillas de 34 g"
       ],
       [
        "Cuándo usarla",
-       "Por la noche, retirar al despertar"
+       "Por la noche o mínimo 4 h; retirar al despertar"
       ]
      ]
     }
@@ -176,31 +299,33 @@
     "eficacia": 8,
     "hidratacion": 9,
     "suavidad": 7,
-    "calidad_precio": 7,
-    "facilidad_uso": 7,
-    "rapidez": 7
+    "calidad_precio": 8,
+    "facilidad_uso": 6,
+    "rapidez": 8
    },
    "necesidades": {
     "hidratacion": 9,
-    "calmar": 5,
-    "manchas": 3,
+    "calmar": 4,
+    "manchas": 4,
     "firmeza": 7,
-    "poros": 3,
-    "luminosidad": 6
+    "poros": 6,
+    "luminosidad": 7
    },
    "pros": [
-    "Se usa mientras duermes, sin perder tiempo",
-    "Acabado jugoso y luminoso al despertar",
-    "Textura agradable y cómoda de aplicar"
+    "Número 1 en mascarillas faciales en Amazon.es",
+    "Hidratación y glow visibles desde el primer uso",
+    "Se aplica en dos piezas para ajustarla al rostro",
+    "Muy buena relación calidad-precio por unidad"
    ],
    "contras": [
-    "Es de un solo uso",
-    "Puede resultar incómoda si te mueves mucho al dormir",
-    "Coste por aplicación superior a una mascarilla clásica"
+    "Algunas usuarias la encuentran incómoda para dormir",
+    "Contiene perfume",
+    "Es de un solo uso por pieza",
+    "Sin Prime el pack sube de precio"
    ],
-   "muestra": true,
+   "muestra": false,
    "cat": "Mascarillas",
-   "img": null
+   "img": "img-biodance-bio-collagen-real-deep-mask-1.jpg"
   },
   {
    "id": "anua-heartleaf-77-soothing-toner",
@@ -208,20 +333,21 @@
    "name": "Anua Heartleaf 77% Soothing Toner",
    "marca": "Anua",
    "categoria": "serums-tonicos",
-   "subtitulo": "Tónico calmante con 77 % de extracto de Houttuynia cordata",
-   "affiliate_url": "https://www.amazon.es/s?k=anua+heartleaf+77+soothing+toner",
+   "subtitulo": "Tónico calmante con 77 % de Heartleaf y ácido hialurónico · 250 ml",
+   "affiliate_url": "https://link.amazon/B0j0T9at6",
    "precio": {
-    "retail": null,
-    "actual": null,
-    "fecha": null
+    "retail": 20.92,
+    "actual": 14.7,
+    "sin_prime": 18.99,
+    "fecha": "2026-10-06"
    },
-   "valoracion_media": null,
-   "resenas_cantidad": null,
+   "valoracion_media": 4.6,
+   "resenas_cantidad": 824,
    "tipo_piel": [
     "Sensible",
+    "Reactiva",
     "Mixta",
-    "Grasa",
-    "Con rojeces"
+    "Grasa"
    ],
    "specs": [
     {
@@ -229,11 +355,11 @@
      "items": [
       [
        "Tipo de piel",
-       "Sensible, mixta, grasa o con tendencia a rojeces"
+       "Sensible o reactiva, con rojeces; también mixta o con tendencia grasa"
       ],
       [
        "Beneficios clave",
-       "Calma, equilibra y prepara la piel para el siguiente paso"
+       "Calma, reduce rojeces, hidratación ligera y efecto refrescante"
       ]
      ]
     },
@@ -242,11 +368,11 @@
      "items": [
       [
        "Ingredientes principales",
-       "Extracto de Houttuynia cordata (77 %)"
+       "Heartleaf (Houttuynia cordata) 77 % y ácido hialurónico"
       ],
       [
        "Textura",
-       "Acuosa, de absorción rápida"
+       "Acuosa, ligera, no pegajosa y no comedogénica"
       ]
      ]
     },
@@ -255,245 +381,66 @@
      "items": [
       [
        "Formato",
-       "Tónico líquido (consulta el tamaño en Amazon)"
+       "250 ml"
       ],
       [
        "Cuándo usarlo",
-       "Mañana y noche, tras la limpieza"
+       "Tras la limpieza, mañana y noche; 2–3 capas o como mini mascarilla de 3–5 min"
       ]
      ]
     }
    ],
    "scores": {
     "eficacia": 7,
-    "hidratacion": 8,
+    "hidratacion": 6,
     "suavidad": 9,
-    "calidad_precio": 9,
+    "calidad_precio": 8,
     "facilidad_uso": 10,
-    "rapidez": 6
+    "rapidez": 5
    },
    "necesidades": {
-    "hidratacion": 7,
+    "hidratacion": 6,
     "calmar": 9,
-    "manchas": 3,
-    "firmeza": 2,
-    "poros": 7,
-    "luminosidad": 4
+    "manchas": 2,
+    "firmeza": 1,
+    "poros": 6,
+    "luminosidad": 3
    },
    "pros": [
-    "Textura ligera y sin pegajosidad",
-    "Muy buena opción para pieles sensibles o con rojeces",
-    "Fácil de combinar con otros productos"
+    "Calma rojeces y piel reactiva",
+    "Textura acuosa no pegajosa y no comedogénica",
+    "Formato grande de 250 ml, dura bastante",
+    "Mejor relación calidad-precio de los tónicos del catálogo"
    ],
    "contras": [
-    "Su hidratación es ligera: las pieles muy secas necesitarán crema",
-    "No es un tratamiento específico para manchas o arrugas"
+    "Hidratación ligera: no basta en pieles muy secas",
+    "Sin Prime, el precio sube",
+    "No es un tratamiento para manchas ni arrugas"
    ],
-   "muestra": true,
+   "muestra": false,
    "cat": "Sérums y tónicos",
-   "img": null
+   "img": "img-anua-heartleaf-77-soothing-toner-1.jpg"
   },
   {
    "id": "anua-niacinamide-10-txa-4-serum",
    "slug": "p-anua-niacinamide-10-txa-4-serum.html",
-   "name": "Anua Niacinamide 10% + TXA 4% Dark Spot Correcting Serum",
+   "name": "Anua Niacinamide 10% + TXA 4% Serum",
    "marca": "Anua",
    "categoria": "serums-tonicos",
-   "subtitulo": "Sérum uniformizador con niacinamida y ácido tranexámico",
-   "affiliate_url": "https://www.amazon.es/s?k=anua+niacinamide+10+txa+4+serum",
+   "subtitulo": "Sérum uniformizador con niacinamida, ácido tranexámico y arbutina · 30 ml",
+   "affiliate_url": "https://link.amazon/B0a1g2v6o",
    "precio": {
-    "retail": null,
-    "actual": null,
-    "fecha": null
+    "retail": 20.65,
+    "actual": 15.4,
+    "sin_prime": 20.34,
+    "fecha": "2026-10-06"
    },
-   "valoracion_media": null,
-   "resenas_cantidad": null,
+   "valoracion_media": 4.6,
+   "resenas_cantidad": 3936,
    "tipo_piel": [
-    "Mixta",
-    "Grasa",
-    "Normal",
-    "Con manchas"
-   ],
-   "specs": [
-    {
-     "g": "Para quién",
-     "items": [
-      [
-       "Tipo de piel",
-       "Mixta, grasa, normal o con manchas"
-      ],
-      [
-       "Beneficios clave",
-       "Uniformiza el tono, ayuda a atenuar manchas y refina la textura"
-      ]
-     ]
-    },
-    {
-     "g": "Fórmula",
-     "items": [
-      [
-       "Ingredientes principales",
-       "Niacinamida 10 % y ácido tranexámico 4 %"
-      ],
-      [
-       "Textura",
-       "Sérum fluido"
-      ]
-     ]
-    },
-    {
-     "g": "Formato y uso",
-     "items": [
-      [
-       "Formato",
-       "Sérum con cuentagotas (consulta el tamaño en Amazon)"
-      ],
-      [
-       "Cuándo usarlo",
-       "Mañana y noche; con protector solar durante el día"
-      ]
-     ]
-    }
-   ],
-   "scores": {
-    "eficacia": 8,
-    "hidratacion": 5,
-    "suavidad": 7,
-    "calidad_precio": 8,
-    "facilidad_uso": 9,
-    "rapidez": 7
-   },
-   "necesidades": {
-    "hidratacion": 4,
-    "calmar": 4,
-    "manchas": 9,
-    "firmeza": 3,
-    "poros": 8,
-    "luminosidad": 8
-   },
-   "pros": [
-    "Doble acción: tono uniforme y control del brillo",
-    "Textura cómoda que no deja residuo",
-    "Muy buena relación calidad-precio"
-   ],
-   "contras": [
-    "Hidratación limitada: necesita una crema encima",
-    "Los resultados sobre manchas son progresivos"
-   ],
-   "muestra": true,
-   "cat": "Sérums y tónicos",
-   "img": null
-  },
-  {
-   "id": "medicube-collagen-jelly-cream",
-   "slug": "p-medicube-collagen-jelly-cream.html",
-   "name": "Medicube Collagen Jelly Cream",
-   "marca": "Medicube",
-   "categoria": "cremas",
-   "subtitulo": "Crema gelatinosa con colágeno para una piel jugosa",
-   "affiliate_url": "https://www.amazon.es/s?k=medicube+collagen+jelly+cream",
-   "precio": {
-    "retail": null,
-    "actual": null,
-    "fecha": null
-   },
-   "valoracion_media": null,
-   "resenas_cantidad": null,
-   "tipo_piel": [
-    "Seca",
-    "Normal",
-    "Deshidratada",
-    "Mixta"
-   ],
-   "specs": [
-    {
-     "g": "Para quién",
-     "items": [
-      [
-       "Tipo de piel",
-       "Seca, normal, deshidratada y mixta"
-      ],
-      [
-       "Beneficios clave",
-       "Hidratación, elasticidad y acabado jugoso"
-      ]
-     ]
-    },
-    {
-     "g": "Fórmula",
-     "items": [
-      [
-       "Ingredientes principales",
-       "Colágeno"
-      ],
-      [
-       "Textura",
-       "Gel-crema tipo gelatina"
-      ]
-     ]
-    },
-    {
-     "g": "Formato y uso",
-     "items": [
-      [
-       "Formato",
-       "Tarro de crema (consulta el tamaño en Amazon)"
-      ],
-      [
-       "Cuándo usarla",
-       "Mañana y noche, como último paso de la rutina"
-      ]
-     ]
-    }
-   ],
-   "scores": {
-    "eficacia": 7,
-    "hidratacion": 9,
-    "suavidad": 7,
-    "calidad_precio": 7,
-    "facilidad_uso": 9,
-    "rapidez": 6
-   },
-   "necesidades": {
-    "hidratacion": 9,
-    "calmar": 4,
-    "manchas": 3,
-    "firmeza": 7,
-    "poros": 2,
-    "luminosidad": 6
-   },
-   "pros": [
-    "Textura fresca y de rápida absorción",
-    "Acabado jugoso y cómodo",
-    "Combina muy bien con el resto de la rutina Medicube"
-   ],
-   "contras": [
-    "Las pieles muy secas pueden necesitar capas extra en invierno",
-    "El tarro es menos higiénico que un formato con dosificador"
-   ],
-   "muestra": true,
-   "cat": "Cremas",
-   "img": null
-  },
-  {
-   "id": "erborian-cc-creme-centella",
-   "slug": "p-erborian-cc-creme-centella.html",
-   "name": "Erborian CC Crème Centella",
-   "marca": "Erborian",
-   "categoria": "cremas",
-   "subtitulo": "CC cream con centella asiática y acabado natural",
-   "affiliate_url": "https://www.amazon.es/s?k=erborian+cc+creme+centella",
-   "precio": {
-    "retail": null,
-    "actual": null,
-    "fecha": null
-   },
-   "valoracion_media": null,
-   "resenas_cantidad": null,
-   "tipo_piel": [
-    "Normal",
-    "Mixta",
-    "Sensible",
+    "Todo tipo de piel",
+    "Con manchas",
+    "Con poros dilatados",
     "Apagada"
    ],
    "specs": [
@@ -502,11 +449,11 @@
      "items": [
       [
        "Tipo de piel",
-       "Normal, mixta, sensible o apagada"
+       "Todo tipo de piel"
       ],
       [
        "Beneficios clave",
-       "Unifica el tono, ilumina y cuida con acabado natural"
+       "Manchas oscuras, tono desigual, poros y falta de luminosidad"
       ]
      ]
     },
@@ -515,11 +462,15 @@
      "items": [
       [
        "Ingredientes principales",
-       "Centella asiática"
+       "Niacinamida 10 %, ácido tranexámico 4 %, arbutina 2 %, ceramidas y ácido hialurónico"
       ],
       [
        "Textura",
-       "Crema ligera con color"
+       "Acuosa y ligera, de color rosa natural"
+      ],
+      [
+       "Fragancia",
+       "Sin fragancia (según el anuncio)"
       ]
      ]
     },
@@ -528,43 +479,147 @@
      "items": [
       [
        "Formato",
-       "Tubo con dosificador (consulta tono y tamaño en Amazon)"
+       "30 ml"
       ],
       [
-       "Cuándo usarla",
-       "Por la mañana, tras la hidratante"
+       "Cuándo usarlo",
+       "Mañana y noche, antes de aceites y cremas"
       ]
      ]
     }
    ],
    "scores": {
-    "eficacia": 6,
+    "eficacia": 8,
     "hidratacion": 6,
     "suavidad": 8,
-    "calidad_precio": 6,
+    "calidad_precio": 8,
     "facilidad_uso": 9,
-    "rapidez": 8
+    "rapidez": 6
    },
    "necesidades": {
-    "hidratacion": 6,
-    "calmar": 6,
-    "manchas": 4,
+    "hidratacion": 5,
+    "calmar": 4,
+    "manchas": 9,
     "firmeza": 2,
-    "poros": 3,
+    "poros": 8,
     "luminosidad": 8
    },
    "pros": [
-    "Acabado natural y luminoso",
-    "Aplicación rápida, ideal para el día a día",
-    "Aporta cuidado además de color"
+    "Triple activo para manchas, tono y poros",
+    "Con ceramidas y ácido hialurónico para la barrera",
+    "Sin fragancia y textura ligera",
+    "Excelente calidad-precio"
    ],
    "contras": [
-    "Cobertura ligera: no disimula imperfecciones marcadas",
-    "Hay que acertar con el tono"
+    "Resultados progresivos, no inmediatos",
+    "Hidratación limitada: necesita crema encima",
+    "Sin Prime, el precio sube"
    ],
-   "muestra": true,
-   "cat": "Cremas",
-   "img": null
+   "muestra": false,
+   "cat": "Sérums y tónicos",
+   "img": "img-anua-niacinamide-10-txa-4-serum-1.jpg"
+  },
+  {
+   "id": "medicube-pdrn-pink-peptide-serum",
+   "slug": "p-medicube-pdrn-pink-peptide-serum.html",
+   "name": "Medicube PDRN Pink Peptide Serum",
+   "marca": "Medicube",
+   "categoria": "serums-tonicos",
+   "subtitulo": "Sérum con PDRN de ADN de salmón, péptidos y niacinamida · 30 ml",
+   "affiliate_url": "https://link.amazon/B0417cQbY",
+   "precio": {
+    "retail": 19.0,
+    "actual": 10.54,
+    "sin_prime": 14.95,
+    "fecha": "2026-10-06"
+   },
+   "valoracion_media": 4.6,
+   "resenas_cantidad": 24897,
+   "tipo_piel": [
+    "Todo tipo de piel",
+    "Apagada",
+    "Deshidratada",
+    "Con falta de firmeza"
+   ],
+   "specs": [
+    {
+     "g": "Para quién",
+     "items": [
+      [
+       "Tipo de piel",
+       "Todo tipo de piel"
+      ],
+      [
+       "Beneficios clave",
+       "Hidratación, luminosidad, elasticidad y tono más uniforme"
+      ]
+     ]
+    },
+    {
+     "g": "Fórmula",
+     "items": [
+      [
+       "Ingredientes principales",
+       "PDRN de ADN de salmón (10.000 ppm), 5 péptidos, niacinamida, adenosina y albahaca sagrada"
+      ],
+      [
+       "Textura",
+       "Fluida, de absorción rápida y no pegajosa"
+      ],
+      [
+       "Fragancia",
+       "Contiene perfume"
+      ]
+     ]
+    },
+    {
+     "g": "Formato y uso",
+     "items": [
+      [
+       "Formato",
+       "30 ml"
+      ],
+      [
+       "Cuándo usarlo",
+       "Antes de la crema hidratante, mañana y/o noche"
+      ],
+      [
+       "Resultados declarados",
+       "+67,42 % de hidratación tras un uso y −31,03 % de poros visibles en 2 semanas (según el fabricante)"
+      ]
+     ]
+    }
+   ],
+   "scores": {
+    "eficacia": 7,
+    "hidratacion": 8,
+    "suavidad": 7,
+    "calidad_precio": 9,
+    "facilidad_uso": 9,
+    "rapidez": 7
+   },
+   "necesidades": {
+    "hidratacion": 8,
+    "calmar": 4,
+    "manchas": 5,
+    "firmeza": 6,
+    "poros": 5,
+    "luminosidad": 8
+   },
+   "pros": [
+    "Hidratación y glow desde las primeras aplicaciones",
+    "Textura ligera que no deja la piel pegajosa",
+    "Funciona bien como prebase de maquillaje (según reseñas)",
+    "Muy económico para su popularidad"
+   ],
+   "contras": [
+    "Contiene perfume",
+    "Efecto sobre los poros variable según las reseñas",
+    "Sin Prime, el precio sube"
+   ],
+   "muestra": false,
+   "cat": "Sérums y tónicos",
+   "img": "img-medicube-pdrn-pink-peptide-serum-1.jpg"
   }
  ],
  "axes": [
@@ -620,6 +675,6 @@
   }
  ],
  "updated": "2026-10-06",
- "v": "202610061741"
+ "v": "202610061839"
 };
 })();
