@@ -14,6 +14,7 @@
     "retail": 251.88,
     "actual": 155.0,
     "sin_prime": 215.0,
+    "prime": true,
     "fecha": "2026-10-06"
    },
    "valoracion_media": 4.3,
@@ -124,7 +125,7 @@
     "Precio elevado y con descuento solo para clientes Prime",
     "Nota de 4,3 sobre 5, la más baja de nuestro catálogo",
     "Algunas reseñas mencionan el botón de modo fácil de pulsar sin querer",
-    "Una reseña en España indica que el modo IA por app no sincronizaba"
+    "Hay una reseña aislada sobre la app y el modo IA (no confirmada)"
    ],
    "muestra": false,
    "cat": "Dispositivos",
@@ -142,6 +143,7 @@
     "retail": 16.74,
     "actual": 8.06,
     "sin_prime": 13.95,
+    "prime": true,
     "fecha": "2026-10-06"
    },
    "valoracion_media": 4.4,
@@ -240,6 +242,7 @@
     "retail": 14.09,
     "actual": 10.45,
     "sin_prime": 15.7,
+    "prime": true,
     "fecha": "2026-10-06"
    },
    "valoracion_media": 4.6,
@@ -339,6 +342,7 @@
     "retail": 20.92,
     "actual": 14.7,
     "sin_prime": 18.99,
+    "prime": true,
     "fecha": "2026-10-06"
    },
    "valoracion_media": 4.6,
@@ -433,6 +437,7 @@
     "retail": 20.65,
     "actual": 15.4,
     "sin_prime": 20.34,
+    "prime": true,
     "fecha": "2026-10-06"
    },
    "valoracion_media": 4.6,
@@ -531,6 +536,7 @@
     "retail": 19.0,
     "actual": 10.54,
     "sin_prime": 14.95,
+    "prime": true,
     "fecha": "2026-10-06"
    },
    "valoracion_media": 4.6,
@@ -620,6 +626,114 @@
    "muestra": false,
    "cat": "Sérums y tónicos",
    "img": "img-medicube-pdrn-pink-peptide-serum-1.jpg"
+  },
+  {
+   "id": "erborian-cc-creme-centella",
+   "slug": "p-erborian-cc-creme-centella.html",
+   "name": "Erborian CC Crème con Centella Asiática",
+   "marca": "Erborian",
+   "categoria": "cremas",
+   "subtitulo": "CC cream con centella asiática y SPF 30 para un acabado natural y luminoso",
+   "affiliate_url": "https://link.amazon/B0hcbx0g1",
+   "precio": {
+    "retail": 23.9,
+    "actual": 18.39,
+    "sin_prime": null,
+    "prime": false,
+    "fecha": "2026-10-06"
+   },
+   "valoracion_media": 4.5,
+   "resenas_cantidad": 9149,
+   "tipo_piel": [
+    "Todo tipo de piel",
+    "Normal",
+    "Mixta",
+    "Apagada"
+   ],
+   "specs": [
+    {
+     "g": "Para quién",
+     "items": [
+      [
+       "Tipo de piel",
+       "Todos los tipos de piel"
+      ],
+      [
+       "Beneficios clave",
+       "Unifica e ilumina el tono, hidrata, disimula líneas de deshidratación y refina la textura"
+      ]
+     ]
+    },
+    {
+     "g": "Fórmula",
+     "items": [
+      [
+       "Ingredientes principales",
+       "Centella asiática"
+      ],
+      [
+       "Textura",
+       "Crema fina que se funde con la piel; se aplica blanca y el color aparece al extenderla (según reseñas)"
+      ],
+      [
+       "Cobertura y acabado",
+       "Cobertura ligera, acabado natural y luminoso"
+      ],
+      [
+       "Protección solar",
+       "SPF 30 (según el título del anuncio)"
+      ],
+      [
+       "Vegana y cruelty free",
+       "Sí (según la tabla comparativa del anuncio)"
+      ]
+     ]
+    },
+    {
+     "g": "Formato y uso",
+     "items": [
+      [
+       "Formato",
+       "15 ml en este enlace (hay otros tamaños y tonos: Clair, Doré, Porcelain…)"
+      ],
+      [
+       "Cuándo usarla",
+       "Por la mañana, tras la rutina de skincare"
+      ]
+     ]
+    }
+   ],
+   "scores": {
+    "eficacia": 7,
+    "hidratacion": 6,
+    "suavidad": 8,
+    "calidad_precio": 7,
+    "facilidad_uso": 9,
+    "rapidez": 9
+   },
+   "necesidades": {
+    "hidratacion": 5,
+    "calmar": 5,
+    "manchas": 3,
+    "firmeza": 1,
+    "poros": 3,
+    "luminosidad": 8
+   },
+   "pros": [
+    "Número 1 en CC creams en Amazon.es",
+    "Acabado natural y luminoso con cobertura ligera",
+    "Se aplica en un minuto con los dedos",
+    "Incluye SPF 30 y centella asiática"
+   ],
+   "contras": [
+    "Cobertura ligera: no tapa imperfecciones marcadas",
+    "El formato de 15 ml sale caro por mililitro",
+    "Hay que acertar con el tono",
+    "Durabilidad moderada según alguna reseña"
+   ],
+   "muestra": false,
+   "cat": "Cremas",
+   "img": "img-erborian-cc-creme-centella-1.jpg"
   }
  ],
  "axes": [
@@ -675,6 +789,6 @@
   }
  ],
  "updated": "2026-10-06",
- "v": "202610061839"
+ "v": "202610061858"
 };
 })();
