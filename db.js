@@ -1105,6 +1105,105 @@
    },
    "cat": "Mascarillas",
    "img": null
+  },
+  {
+   "id": "medicube-capsule-cream-pdrn",
+   "slug": "p-medicube-capsule-cream-pdrn.html",
+   "name": "Medicube Capsule Cream PDRN Pink Collagen",
+   "marca": "Medicube",
+   "categoria": "cremas",
+   "subtitulo": "Crema en gel con cápsulas de PDRN de salmón y niacinamida · 55 g",
+   "affiliate_url": "https://link.amazon/B0hspLikS",
+   "valoracion_media": null,
+   "resenas_cantidad": null,
+   "tipo_piel": [
+    "Normal",
+    "Seca",
+    "Deshidratada",
+    "Sensible"
+   ],
+   "specs": [
+    {
+     "g": "Para quién",
+     "items": [
+      [
+       "Tipo de piel",
+       "Pieles que buscan hidratación y luminosidad; el anuncio la presenta como suave para uso diario, también en piel sensible"
+      ],
+      [
+       "Beneficios clave",
+       "Hidratación, aspecto más firme, tono equilibrado y brillo glass skin (según el fabricante)"
+      ]
+     ]
+    },
+    {
+     "g": "Fórmula",
+     "items": [
+      [
+       "Ingredientes principales",
+       "PDRN de ADN de salmón en cápsulas, niacinamida, adenosina, escualano, ceramida NP, ácido hialurónico, colágeno hidrolizado y péptidos"
+      ],
+      [
+       "Textura",
+       "Gel ligero no oleoso con cápsulas rosas que se revientan y se mezclan"
+      ],
+      [
+       "Cómo se personaliza",
+       "Se mezcla más o menos cápsula con el gel según la hidratación o elasticidad deseada"
+      ],
+      [
+       "Versiones",
+       "Este enlace es la versión PDRN Pink Collagen; existen otras (Deep Vita C, Hyaluronic Acid, TXA + Niacinamide)"
+      ]
+     ]
+    },
+    {
+     "g": "Formato y uso",
+     "items": [
+      [
+       "Formato",
+       "55 g"
+      ],
+      [
+       "Cuándo usarla",
+       "Mañana y/o noche, como último paso de la rutina"
+      ]
+     ]
+    }
+   ],
+   "scores": {
+    "eficacia": 7,
+    "hidratacion": 8,
+    "suavidad": 8,
+    "calidad_precio": 8,
+    "facilidad_uso": 8,
+    "rapidez": 7
+   },
+   "necesidades": {
+    "hidratacion": 8,
+    "calmar": 5,
+    "manchas": 4,
+    "firmeza": 6,
+    "poros": 2,
+    "luminosidad": 7
+   },
+   "pros": [
+    "Cápsulas que se mezclan con el gel a tu gusto",
+    "Con ceramida, ácido hialurónico y péptidos",
+    "Textura de gel ligera, no oleosa",
+    "Existen varias versiones de la misma crema"
+   ],
+   "contras": [
+    "Hay que mezclar la cápsula con el gel en cada aplicación",
+    "Contiene PDRN de origen marino (salmón)",
+    "Hay que elegir bien entre las distintas versiones"
+   ],
+   "muestra": false,
+   "precio": {
+    "actual": null
+   },
+   "cat": "Cremas",
+   "img": null
   }
  ],
  "axes": [
@@ -1160,6 +1259,6 @@
   }
  ],
  "updated": "2026-10-06",
- "v": "202610062103"
+ "v": "202610062120"
 };
 })();
