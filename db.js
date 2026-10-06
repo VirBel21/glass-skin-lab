@@ -10,13 +10,6 @@
    "categoria": "dispositivos",
    "subtitulo": "Dispositivo 7 en 1 con electroporación, microcorrientes y EMS, con modo mascarilla",
    "affiliate_url": "https://link.amazon/B0denuQVx",
-   "precio": {
-    "retail": 251.88,
-    "actual": 155.0,
-    "sin_prime": 215.0,
-    "prime": true,
-    "fecha": "2026-10-06"
-   },
    "valoracion_media": 4.3,
    "resenas_cantidad": 702,
    "tipo_piel": [
@@ -122,12 +115,15 @@
     "Número 1 en su categoría en Amazon.es"
    ],
    "contras": [
-    "Precio elevado y con descuento solo para clientes Prime",
+    "Inversión elevada frente a la cosmética tradicional",
     "Nota de 4,3 sobre 5, la más baja de nuestro catálogo",
     "Algunas reseñas mencionan el botón de modo fácil de pulsar sin querer",
     "Hay una reseña aislada sobre la app y el modo IA (no confirmada)"
    ],
    "muestra": false,
+   "precio": {
+    "actual": null
+   },
    "cat": "Dispositivos",
    "img": "img-medicube-booster-pro-x2-1.jpg"
   },
@@ -139,13 +135,6 @@
    "categoria": "cremas",
    "subtitulo": "Crema facial con colágeno hidrolizado, textura jelly y glow",
    "affiliate_url": "https://link.amazon/B0ecSlUq1",
-   "precio": {
-    "retail": 16.74,
-    "actual": 8.06,
-    "sin_prime": 13.95,
-    "prime": true,
-    "fecha": "2026-10-06"
-   },
    "valoracion_media": 4.4,
    "resenas_cantidad": 38827,
    "tipo_piel": [
@@ -218,15 +207,18 @@
    "pros": [
     "Número 1 en cremas diurnas faciales en Amazon.es",
     "Textura jelly ligera y fresca",
-    "Precio muy bajo para el volumen de reseñas",
+    "Fórmula muy popular entre los compradores",
     "Cunde: se necesita poca cantidad"
    ],
    "contras": [
     "Contiene perfume",
     "Alguna reseña la nota algo aceitosa en verano",
-    "Con Prime baja a la mitad, sin Prime el precio sube"
+    "Alguna reseña la nota algo untuosa"
    ],
    "muestra": false,
+   "precio": {
+    "actual": null
+   },
    "cat": "Cremas",
    "img": "img-medicube-collagen-jelly-cream-1.jpg"
   },
@@ -238,13 +230,6 @@
    "categoria": "mascarillas",
    "subtitulo": "Mascarilla de hidrogel nocturna con colágeno · 4 unidades de 34 g",
    "affiliate_url": "https://link.amazon/B0b29cF2n",
-   "precio": {
-    "retail": 14.09,
-    "actual": 10.45,
-    "sin_prime": 15.7,
-    "prime": true,
-    "fecha": "2026-10-06"
-   },
    "valoracion_media": 4.6,
    "resenas_cantidad": 46338,
    "tipo_piel": [
@@ -318,15 +303,17 @@
     "Número 1 en mascarillas faciales en Amazon.es",
     "Hidratación y glow visibles desde el primer uso",
     "Se aplica en dos piezas para ajustarla al rostro",
-    "Muy buena relación calidad-precio por unidad"
+    "Cada mascarilla se ajusta en dos partes al rostro"
    ],
    "contras": [
     "Algunas usuarias la encuentran incómoda para dormir",
     "Contiene perfume",
-    "Es de un solo uso por pieza",
-    "Sin Prime el pack sube de precio"
+    "Es de un solo uso por pieza"
    ],
    "muestra": false,
+   "precio": {
+    "actual": null
+   },
    "cat": "Mascarillas",
    "img": "img-biodance-bio-collagen-real-deep-mask-1.jpg"
   },
@@ -338,13 +325,6 @@
    "categoria": "serums-tonicos",
    "subtitulo": "Tónico calmante con 77 % de Heartleaf y ácido hialurónico · 250 ml",
    "affiliate_url": "https://link.amazon/B0j0T9at6",
-   "precio": {
-    "retail": 20.92,
-    "actual": 14.7,
-    "sin_prime": 18.99,
-    "prime": true,
-    "fecha": "2026-10-06"
-   },
    "valoracion_media": 4.6,
    "resenas_cantidad": 824,
    "tipo_piel": [
@@ -414,14 +394,16 @@
     "Calma rojeces y piel reactiva",
     "Textura acuosa no pegajosa y no comedogénica",
     "Formato grande de 250 ml, dura bastante",
-    "Mejor relación calidad-precio de los tónicos del catálogo"
+    "Fórmula sencilla y fácil de combinar"
    ],
    "contras": [
     "Hidratación ligera: no basta en pieles muy secas",
-    "Sin Prime, el precio sube",
     "No es un tratamiento para manchas ni arrugas"
    ],
    "muestra": false,
+   "precio": {
+    "actual": null
+   },
    "cat": "Sérums y tónicos",
    "img": "img-anua-heartleaf-77-soothing-toner-1.jpg"
   },
@@ -433,13 +415,6 @@
    "categoria": "serums-tonicos",
    "subtitulo": "Sérum uniformizador con niacinamida, ácido tranexámico y arbutina · 30 ml",
    "affiliate_url": "https://link.amazon/B0a1g2v6o",
-   "precio": {
-    "retail": 20.65,
-    "actual": 15.4,
-    "sin_prime": 20.34,
-    "prime": true,
-    "fecha": "2026-10-06"
-   },
    "valoracion_media": 4.6,
    "resenas_cantidad": 3936,
    "tipo_piel": [
@@ -513,14 +488,16 @@
     "Triple activo para manchas, tono y poros",
     "Con ceramidas y ácido hialurónico para la barrera",
     "Sin fragancia y textura ligera",
-    "Excelente calidad-precio"
+    "Fórmula con activos bien explicados"
    ],
    "contras": [
     "Resultados progresivos, no inmediatos",
-    "Hidratación limitada: necesita crema encima",
-    "Sin Prime, el precio sube"
+    "Hidratación limitada: necesita crema encima"
    ],
    "muestra": false,
+   "precio": {
+    "actual": null
+   },
    "cat": "Sérums y tónicos",
    "img": "img-anua-niacinamide-10-txa-4-serum-1.jpg"
   },
@@ -532,13 +509,6 @@
    "categoria": "serums-tonicos",
    "subtitulo": "Sérum con PDRN de ADN de salmón, péptidos y niacinamida · 30 ml",
    "affiliate_url": "https://link.amazon/B0417cQbY",
-   "precio": {
-    "retail": 19.0,
-    "actual": 10.54,
-    "sin_prime": 14.95,
-    "prime": true,
-    "fecha": "2026-10-06"
-   },
    "valoracion_media": 4.6,
    "resenas_cantidad": 24897,
    "tipo_piel": [
@@ -616,14 +586,16 @@
     "Hidratación y glow desde las primeras aplicaciones",
     "Textura ligera que no deja la piel pegajosa",
     "Funciona bien como prebase de maquillaje (según reseñas)",
-    "Muy económico para su popularidad"
+    "Muy popular y con miles de valoraciones"
    ],
    "contras": [
     "Contiene perfume",
-    "Efecto sobre los poros variable según las reseñas",
-    "Sin Prime, el precio sube"
+    "Efecto sobre los poros variable según las reseñas"
    ],
    "muestra": false,
+   "precio": {
+    "actual": null
+   },
    "cat": "Sérums y tónicos",
    "img": "img-medicube-pdrn-pink-peptide-serum-1.jpg"
   },
@@ -635,13 +607,6 @@
    "categoria": "cremas",
    "subtitulo": "CC cream con centella asiática y SPF 30 para un acabado natural y luminoso",
    "affiliate_url": "https://link.amazon/B0hcbx0g1",
-   "precio": {
-    "retail": 23.9,
-    "actual": 18.39,
-    "sin_prime": null,
-    "prime": false,
-    "fecha": "2026-10-06"
-   },
    "valoracion_media": 4.5,
    "resenas_cantidad": 9149,
    "tipo_piel": [
@@ -727,11 +692,14 @@
    ],
    "contras": [
     "Cobertura ligera: no tapa imperfecciones marcadas",
-    "El formato de 15 ml sale caro por mililitro",
+    "Formato pequeño (15 ml) en este enlace",
     "Hay que acertar con el tono",
     "Durabilidad moderada según alguna reseña"
    ],
    "muestra": false,
+   "precio": {
+    "actual": null
+   },
    "cat": "Cremas",
    "img": "img-erborian-cc-creme-centella-1.jpg"
   }
@@ -789,6 +757,6 @@
   }
  ],
  "updated": "2026-10-06",
- "v": "202610061921"
+ "v": "202610061953"
 };
 })();

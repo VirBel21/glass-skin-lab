@@ -164,7 +164,7 @@
         return '<th scope="col"><button type="button" class="rm" data-rm="' + esc(p.id) + '" aria-label="Quitar ' + esc(p.name) + '">×</button><a href="' + esc(p.slug) + '" style="color:inherit">' + esc(p.name) + "</a></th>";
       }).join("") + "</tr>";
       var rows = row("Marca", prods, function (p) { return p.marca; }) + row("Categoría", prods, function (p) { return p.cat; }) +
-        row("Precio orientativo", prods, function (p) { return p.precio.actual; }, "min", eur) +
+        (prods.some(function (p) { return p.precio && p.precio.actual != null; }) ? row("Precio orientativo", prods, function (p) { return p.precio.actual; }, "min", eur) : "") +
         row("Valoración Amazon", prods, function (p) { return p.valoracion_media; }, "max", function (v) { return v.toFixed(1) + " ★"; }) +
         row("Tipo de piel", prods, function (p) { return p.tipo_piel.join(", "); });
       rows += '<tr class="grp"><th colspan="' + (prods.length + 1) + '">Valoración del editor (0–10)</th></tr>';
