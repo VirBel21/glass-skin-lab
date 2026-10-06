@@ -694,7 +694,7 @@
      "items": [
       [
        "Formato",
-       "15 ml en este enlace (hay otros tamaños y tonos: Clair, Doré, Porcelain…)"
+       "15 ml, disponible en varios tonos (Clair, Doré, Porcelain…); los formatos más grandes son otros anuncios de Amazon"
       ],
       [
        "Cuándo usarla",
@@ -789,6 +789,6 @@
   }
  ],
  "updated": "2026-10-06",
- "v": "202610061858"
+ "v": "202610061921"
 };
 })();
