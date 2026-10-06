@@ -123,7 +123,7 @@
     "actual": null
    },
    "cat": "Dispositivos",
-   "img": "img-medicube-booster-pro-x2-1.jpg"
+   "img": null
   },
   {
    "id": "medicube-collagen-jelly-cream",
@@ -217,7 +217,7 @@
     "actual": null
    },
    "cat": "Cremas",
-   "img": "img-medicube-collagen-jelly-cream-1.jpg"
+   "img": null
   },
   {
    "id": "biodance-bio-collagen-real-deep-mask",
@@ -311,7 +311,7 @@
     "actual": null
    },
    "cat": "Mascarillas",
-   "img": "img-biodance-bio-collagen-real-deep-mask-1.jpg"
+   "img": null
   },
   {
    "id": "anua-heartleaf-77-soothing-toner",
@@ -401,7 +401,7 @@
     "actual": null
    },
    "cat": "Sérums y tónicos",
-   "img": "img-anua-heartleaf-77-soothing-toner-1.jpg"
+   "img": null
   },
   {
    "id": "anua-niacinamide-10-txa-4-serum",
@@ -494,7 +494,7 @@
     "actual": null
    },
    "cat": "Sérums y tónicos",
-   "img": "img-anua-niacinamide-10-txa-4-serum-1.jpg"
+   "img": null
   },
   {
    "id": "medicube-pdrn-pink-peptide-serum",
@@ -592,7 +592,7 @@
     "actual": null
    },
    "cat": "Sérums y tónicos",
-   "img": "img-medicube-pdrn-pink-peptide-serum-1.jpg"
+   "img": null
   },
   {
    "id": "erborian-cc-creme-centella",
@@ -695,7 +695,7 @@
     "actual": null
    },
    "cat": "Cremas",
-   "img": "img-erborian-cc-creme-centella-1.jpg"
+   "img": null
   },
   {
    "id": "anua-heartleaf-pore-control-cleansing-oil",
@@ -794,16 +794,16 @@
     "actual": null
    },
    "cat": "Limpieza y SPF",
-   "img": "img-anua-heartleaf-pore-control-cleansing-oil-1.jpg"
+   "img": null
   },
   {
    "id": "beauty-of-joseon-relief-sun-spf50",
    "slug": "p-beauty-of-joseon-relief-sun-spf50.html",
-   "name": "Beauty of Joseon Relief Sun Rice + Probiotics SPF50+",
+   "name": "Beauty of Joseon Relief Sun Rice + Probiotics SPF50+ (pack de 2)",
    "marca": "Beauty of Joseon",
    "categoria": "limpiadores-solar",
-   "subtitulo": "Protector solar facial con arroz y probióticos, SPF50+ PA++++ · 50 ml",
-   "affiliate_url": "https://link.amazon/B06z2nxDK",
+   "subtitulo": "Protector solar facial con arroz y probióticos, SPF50+ PA++++ · pack de 2 × 50 ml",
+   "affiliate_url": "https://link.amazon/B0fVYygga",
    "valoracion_media": null,
    "resenas_cantidad": null,
    "tipo_piel": [
@@ -818,7 +818,7 @@
      "items": [
       [
        "Tipo de piel",
-       "Todo tipo de piel; el anuncio indica que puede usarse también en piel sensible"
+       "Todo tipo de piel (según el anuncio)"
       ],
       [
        "Beneficios clave",
@@ -831,7 +831,7 @@
      "items": [
       [
        "Ingredientes principales",
-       "Extracto de arroz (30 %) y biofermento de ácido láctico (probióticos)"
+       "Extractos de arroz y granos fermentados, con probióticos"
       ],
       [
        "Tipo de filtros",
@@ -839,11 +839,20 @@
       ],
       [
        "Textura",
-       "Ligera y sin efecto blanquecino (según el anuncio)"
+       "Ligera, con brillo natural y sin tono blanco (según el anuncio)"
+      ]
+     ]
+    },
+    {
+     "g": "Protección",
+     "items": [
+      [
+       "Factor de protección",
+       "SPF50+ PA++++"
       ],
       [
-       "Vegana",
-       "Sí (según la descripción del anuncio)"
+       "Pruebas de laboratorio",
+       "SPF 52,5 ± 5,8 (laboratorio coreano) y 63,1 ± 0,6 (laboratorio español); UVA PF 16,1 y 19, PA++++ (datos del anuncio)"
       ]
      ]
     },
@@ -851,16 +860,16 @@
      "g": "Formato y uso",
      "items": [
       [
-       "Protección",
-       "SPF50+ PA++++"
-      ],
-      [
        "Formato",
-       "50 ml"
+       "Pack de 2 unidades de 50 ml"
       ],
       [
        "Cuándo usarlo",
-       "Último paso de la rutina de mañana; reaplicar si hay exposición solar"
+       "Último paso de la rutina de mañana"
+      ],
+      [
+       "Cómo usarlo",
+       "Aplicar de forma generosa y uniforme sobre piel limpia y seca 15 minutos antes de la exposición solar; reaplicar al menos cada 2 horas o tras nadar o sudar"
       ]
      ]
     }
@@ -869,7 +878,7 @@
     "eficacia": 8,
     "hidratacion": 6,
     "suavidad": 8,
-    "calidad_precio": 7,
+    "calidad_precio": 8,
     "facilidad_uso": 9,
     "rapidez": 8
    },
@@ -882,22 +891,220 @@
     "luminosidad": 5
    },
    "pros": [
-    "Protección alta SPF50+ PA++++",
-    "Textura ligera y sin marca blanca (según el anuncio)",
-    "Con extracto de arroz y probióticos",
+    "Protección alta SPF50+ PA++++, con pruebas en laboratorios de Corea y España",
+    "Textura ligera y sin tono blanco (según el anuncio)",
+    "Pack de 2 unidades",
     "Cierra cualquier rutina de mañana"
    ],
    "contras": [
     "Lleva filtros químicos, que no gustan a todo el mundo",
-    "Formato de 50 ml: se gasta rápido si se aplica la cantidad recomendada",
-    "Hay que reaplicarlo si te expones al sol"
+    "Hay que reaplicarlo al menos cada 2 horas si te expones al sol",
+    "Para exposición solar intensa conviene un protector específico"
    ],
    "muestra": false,
    "precio": {
     "actual": null
    },
    "cat": "Limpieza y SPF",
-   "img": "img-beauty-of-joseon-relief-sun-spf50-1.jpg"
+   "img": null
+  },
+  {
+   "id": "medicube-zero-pore-pad-2",
+   "slug": "p-medicube-zero-pore-pad-2.html",
+   "name": "Medicube Zero Pore Pad 2.0",
+   "marca": "Medicube",
+   "categoria": "serums-tonicos",
+   "subtitulo": "Discos tónicos de doble textura con AHA y BHA para poros · 70 discos",
+   "affiliate_url": "https://link.amazon/B0dPktrIW",
+   "valoracion_media": null,
+   "resenas_cantidad": null,
+   "tipo_piel": [
+    "Mixta",
+    "Grasa",
+    "Normal",
+    "Con poros dilatados"
+   ],
+   "specs": [
+    {
+     "g": "Para quién",
+     "items": [
+      [
+       "Tipo de piel",
+       "Todo tipo de piel; uso diario en piel mixta y 2–3 veces por semana en piel seca o sensible (según el fabricante)"
+      ],
+      [
+       "Beneficios clave",
+       "Exfolia suavemente, calma y refina el aspecto de los poros"
+      ]
+     ]
+    },
+    {
+     "g": "Fórmula",
+     "items": [
+      [
+       "Ingredientes principales",
+       "Ácido láctico (AHA), ácido salicílico (BHA), extracto de corteza de sauce, centella asiática, lavanda y romero"
+      ],
+      [
+       "Textura",
+       "Disco de algodón impregnado con dos caras: relieve exfoliante y lado liso calmante"
+      ],
+      [
+       "Alcohol y aroma",
+       "Contiene alcohol desnaturalizado y aceites esenciales cítricos"
+      ],
+      [
+       "Resultados del fabricante",
+       "−44,93 % de puntos negros, −30,48 % de sebo y +7,28 % de mejora en el aspecto de los poros en 2 semanas (test del propio fabricante)"
+      ]
+     ]
+    },
+    {
+     "g": "Formato y uso",
+     "items": [
+      [
+       "Formato",
+       "70 discos (155 g)"
+      ],
+      [
+       "Cuándo usarlos",
+       "Tras la limpieza, preferiblemente por la noche"
+      ],
+      [
+       "Cómo usarlos",
+       "Pasar un disco por el rostro en movimientos circulares, evitando ojos y labios; no aclarar"
+      ]
+     ]
+    }
+   ],
+   "scores": {
+    "eficacia": 8,
+    "hidratacion": 4,
+    "suavidad": 6,
+    "calidad_precio": 9,
+    "facilidad_uso": 9,
+    "rapidez": 8
+   },
+   "necesidades": {
+    "hidratacion": 3,
+    "calmar": 4,
+    "manchas": 4,
+    "firmeza": 1,
+    "poros": 9,
+    "luminosidad": 7
+   },
+   "pros": [
+    "Exfolia y calma en un solo paso",
+    "Pensados para refinar el aspecto de los poros",
+    "Formato de 70 discos",
+    "Vienen impregnados: no necesitas algodón ni toner aparte"
+   ],
+   "contras": [
+    "Contienen ácidos exfoliantes: no conviene abusar",
+    "Contienen alcohol y aceites esenciales (posibles alérgenos)",
+    "En piel seca o sensible, solo 2–3 veces por semana"
+   ],
+   "muestra": false,
+   "precio": {
+    "actual": null
+   },
+   "cat": "Sérums y tónicos",
+   "img": null
+  },
+  {
+   "id": "medicube-jelly-gel-mask-pdrn",
+   "slug": "p-medicube-jelly-gel-mask-pdrn.html",
+   "name": "Medicube Jelly Gel Mask PDRN Pink Collagen",
+   "marca": "Medicube",
+   "categoria": "mascarillas",
+   "subtitulo": "Mascarilla nocturna de gel con PDRN de salmón y colágeno · 4 unidades de 28 g",
+   "affiliate_url": "https://link.amazon/B08ZUrZSg",
+   "valoracion_media": null,
+   "resenas_cantidad": null,
+   "tipo_piel": [
+    "Normal",
+    "Seca",
+    "Mixta",
+    "Apagada"
+   ],
+   "specs": [
+    {
+     "g": "Para quién",
+     "items": [
+      [
+       "Tipo de piel",
+       "Pieles que buscan hidratación y luminosidad"
+      ],
+      [
+       "Beneficios clave",
+       "Hidratación, efecto glass skin y aspecto más firme (según el fabricante)"
+      ]
+     ]
+    },
+    {
+     "g": "Fórmula",
+     "items": [
+      [
+       "Ingredientes principales",
+       "PDRN de ADN de salmón, colágeno hidrolizado de bajo peso molecular, niacinamida, péptidos y adenosina"
+      ],
+      [
+       "Textura",
+       "Mascarilla de gel (jelly) de uso nocturno"
+      ],
+      [
+       "Fragancia",
+       "Contiene perfume"
+      ]
+     ]
+    },
+    {
+     "g": "Formato y uso",
+     "items": [
+      [
+       "Formato",
+       "4 mascarillas de 28 g (aroma Pink PDRN)"
+      ],
+      [
+       "Cuándo usarla",
+       "Por la noche"
+      ]
+     ]
+    }
+   ],
+   "scores": {
+    "eficacia": 7,
+    "hidratacion": 9,
+    "suavidad": 7,
+    "calidad_precio": 8,
+    "facilidad_uso": 7,
+    "rapidez": 8
+   },
+   "necesidades": {
+    "hidratacion": 9,
+    "calmar": 4,
+    "manchas": 3,
+    "firmeza": 6,
+    "poros": 2,
+    "luminosidad": 8
+   },
+   "pros": [
+    "Pensada para hidratar y dar luminosidad",
+    "Con PDRN, colágeno y péptidos",
+    "Formato de 4 mascarillas",
+    "Uso nocturno: sin dedicar tiempo extra"
+   ],
+   "contras": [
+    "Contiene perfume",
+    "Contiene PDRN de origen marino (salmón)",
+    "Es de un solo uso por mascarilla"
+   ],
+   "muestra": false,
+   "precio": {
+    "actual": null
+   },
+   "cat": "Mascarillas",
+   "img": null
   }
  ],
  "axes": [
@@ -953,6 +1160,6 @@
   }
  ],
  "updated": "2026-10-06",
- "v": "202610062038"
+ "v": "202610062103"
 };
 })();
